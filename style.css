@@ -38,6 +38,10 @@ body{
     padding: 40px;
     }
     
+    .sobre_texto-titulo{
+        font-size: 30px;
+    }
+    
     .elementos{
     display: flex;
     justify-content: center;
