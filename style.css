@@ -39,9 +39,9 @@ body{
     }
     
     .sobre_texto-titulo{
-        font-size: 30px;
+        font-size: 50px;
     }
-    
+
     .elementos{
     display: flex;
     justify-content: center;
